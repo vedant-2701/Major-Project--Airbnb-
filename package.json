@@ -2,7 +2,6 @@
   "engines": {
     "node": "20.10.0"
   },
-
   "name": "major-project-(airbnb)",
   "version": "1.0.0",
   "description": "",
